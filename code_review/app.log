@@ -1,0 +1,563 @@
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: ['Student_Mangement.git/controller/studentController.js', 'Student_Mangement.git/routes/studentsRoutes.js', 'Student_Mangement.git/server.js']
+INFO:root:Analyzing code file: Student_Mangement.git/controller/studentController.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 2865
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Analyzing code file: Student_Mangement.git/routes/studentsRoutes.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3729
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Analyzing code file: Student_Mangement.git/server.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3677
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Selected files: ['Student_Mangement.git/controller/studentController.js', 'Student_Mangement.git/routes/studentsRoutes.js', 'Student_Mangement.git/server.js']
+INFO:root:Analyzing code file: Student_Mangement.git/controller/studentController.js
+INFO:root:Analyzing code file: Student_Mangement.git/routes/studentsRoutes.js
+INFO:root:Analyzing code file: Student_Mangement.git/server.js
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: ['Student_Mangement.git/controller/studentController.js', 'Student_Mangement.git/routes/studentsRoutes.js', 'Student_Mangement.git/server.js']
+INFO:root:Analyzing code file: Student_Mangement.git/controller/studentController.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 2999
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Analyzing code file: Student_Mangement.git/routes/studentsRoutes.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3863
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Analyzing code file: Student_Mangement.git/server.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3811
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Selected files: ['Student_Mangement.git/controller/studentController.js', 'Student_Mangement.git/routes/studentsRoutes.js', 'Student_Mangement.git/server.js']
+INFO:root:Analyzing code file: Student_Mangement.git/controller/studentController.js
+INFO:root:Analyzing code file: Student_Mangement.git/routes/studentsRoutes.js
+INFO:root:Analyzing code file: Student_Mangement.git/server.js
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: ['Student_Mangement/controller/studentController.js']
+INFO:root:Analyzing code file: Student_Mangement/controller/studentController.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 2999
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Selected files: []
+INFO:root:Selected files: ['Student_Mangement/controller/studentController.js']
+INFO:root:Analyzing code file: Student_Mangement/controller/studentController.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 2865
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Selected files: ['Student_Mangement/controller/studentController.js']
+INFO:root:Analyzing code file: Student_Mangement/controller/studentController.js
+INFO:root:Selected files: []
+INFO:root:Selected files: ['Student_Mangement/routes/studentsRoutes.js']
+INFO:root:Analyzing code file: Student_Mangement/routes/studentsRoutes.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3729
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Attempting to clone repository: https://SoniSiva26@bitbucket.org/jcarterCTO_CT/ctbidsai.git
+ERROR:root:Failed to clone repository: Cmd('git') failed due to: exit code(-2)
+  cmdline: git clone -v -- https://*****@bitbucket.org/jcarterCTO_CT/ctbidsai.git ctbidsai.git
+  stderr: 'Cloning into 'ctbidsai.git'...
+'
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review/temp_chatgpt_code_review
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review/temp_chatgpt_code_review
+INFO:root:Created temporary directory: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review/temp_chatgpt_code_review
+INFO:root:Attempting to clone repository: https://SoniSiva26@bitbucket.org/jcarterCTO_CT/ctbidsai.git
+ERROR:root:Failed to clone repository: Cmd('git') failed due to: exit code(-2)
+  cmdline: git clone -v -- https://*****@bitbucket.org/jcarterCTO_CT/ctbidsai.git ctbidsai.git
+  stderr: 'Cloning into 'ctbidsai.git'...
+'
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review/temp_chatgpt_code_review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Attempting to clone repository: https://github.com/Dancherry404/Student_Mangement
+INFO:root:Cloned repository to: Student_Mangement
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: ['Student_Mangement/server.js']
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: ['Student_Mangement/server.js']
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: ['Student_Mangement/server.js']
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: []
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: []
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: ['Student_Mangement/routes/studentsRoutes.js']
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: []
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: ['Student_Mangement/controller/studentController.js']
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: []
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: ['Student_Mangement/controller/studentController.js']
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: []
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: []
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: ['Student_Mangement/routes/studentsRoutes.js']
+ERROR:root:File not found: Student_Mangement/routes/studentsRoutes.js
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: ['Student_Mangement/routes/studentsRoutes.js']
+ERROR:root:File not found: Student_Mangement/routes/studentsRoutes.js
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: []
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Created temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: []
+INFO:root:Restored working directory to: /home/karthikeyan-c/Desktop/project/my_ai/chatgpt-code-review/chatgpt_code_review
+INFO:root:Deleted temporary directory: /tmp/chatgpt-code-review
+INFO:root:Selected files: []
+INFO:root:Selected files: ['Student_Mangement/routes/studentsRoutes.js']
+INFO:root:Analyzing code file: Student_Mangement/routes/studentsRoutes.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3729
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: ['Student_Mangement/server.js']
+INFO:root:Analyzing code file: Student_Mangement/server.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3677
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: ['ctbidsai.git/namecheck.py']
+INFO:root:Analyzing code file: ctbidsai.git/namecheck.py
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 2644
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: ['ctbidsai.git/search_category.py']
+INFO:root:Analyzing code file: ctbidsai.git/search_category.py
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3224
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: ['Student_Mangement/routes/studentsRoutes.js']
+INFO:root:Analyzing code file: Student_Mangement/routes/studentsRoutes.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3729
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: ['Student_Mangement/server.js']
+INFO:root:Analyzing code file: Student_Mangement/server.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3677
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: ['Student_Mangement/server.js']
+INFO:root:Analyzing code file: Student_Mangement/server.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3677
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: ['aisearch.git/search_py.py']
+INFO:root:Analyzing code file: aisearch.git/search_py.py
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 1386
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Selected files: []
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: ['ctbidsai.git/suspension.py']
+INFO:root:Analyzing code file: ctbidsai.git/suspension.py
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 2605
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: ['Student_Mangement/server.js']
+INFO:root:Analyzing code file: Student_Mangement/server.js
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3677
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: ['ctbidsai.git/suspension.py']
+INFO:root:Analyzing code file: ctbidsai.git/suspension.py
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 2605
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: ['ctbidsai/suspension.py']
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:numexpr.utils:Note: NumExpr detected 12 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+INFO:numexpr.utils:NumExpr defaulting to 8 threads.
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: ['master-20250626042605/ctbidsai/search_py.py']
+INFO:root:Analyzing code file: master-20250626042605/ctbidsai/search_py.py
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 1372
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: ['feature/namecheck-20250626061022/ctbidsai.git/openaiaddress.py']
+INFO:root:Analyzing code file: feature/namecheck-20250626061022/ctbidsai.git/openaiaddress.py
+INFO:root:Sending request to OpenAI API for code analysis
+INFO:root:Max response tokens: 3114
+INFO:httpx:HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+INFO:root:Received response from OpenAI API
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
+INFO:root:Selected files: []
